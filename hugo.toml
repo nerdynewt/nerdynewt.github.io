@@ -1,0 +1,4 @@
+baseURL = 'https://nerdynewt.github.io/'
+languageCode = 'en-us'
+title = 'NerdyNewt'
+theme = 'hugo-book'
