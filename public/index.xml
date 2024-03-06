@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello on NerdyNewt</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Hello on NerdyNewt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2024 21:43:23 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/hello/</link>
+      <pubDate>Wed, 06 Mar 2024 21:43:23 +0530</pubDate>
+      <guid>http://localhost:1313/hello/</guid>
+      <description>Secura sunt ferventia veterum qua cum tamen # Parentes moenia arva # Lorem markdownum profecisse sede crematisregia aspergine decrescentibus exerces. Restabat fallunt. Miseram usus ferinae et togaque obsessum; cannis venti quanta, remansit. Aera requiemque labori sed latentia si amantis fama, fuga, lenisque. Infantem spemque; nec dolentis paternos maius quosque heros saxum quae et!&#xA;Quam inque tolerare sanguine per licet manibus, uni velis referente, coniuge. Fortisque Dixit Saturnia ulterius in inopes seque externos, et intrat et iste formae.</description>
+    </item>
+  </channel>
+</rss>
